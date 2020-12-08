@@ -1,0 +1,16 @@
+{
+  "states": [
+    {
+      "abbreviation": "AL",
+      "name": "Alabana"
+    },
+    {
+      "abbreviation": "Ak",
+      "name": "Alaska"
+    },
+    {
+      "abbreviation": "Az",
+      "name": "Arizona"
+    }
+  ]
+}

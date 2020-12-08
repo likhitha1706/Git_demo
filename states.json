@@ -1,0 +1,19 @@
+{
+    "states":[
+        {
+            "name":"Alabana",
+            "abbreviation":"AL",
+            "area_codes":["345","455","566","456"]
+        },
+        {
+            "name":"Alaska",
+            "abbreviation":"Ak",
+            "area_codes":["356"]
+        },
+        {
+            "name":"Arizona",
+            "abbreviation":"Az",
+            "area_codes":["789","345","788","436","676"]
+        }
+    ]
+}
